@@ -2,4 +2,4 @@
 
 Graduate of Google UX/UI Certification and aspiring web designer.
 
-HTML? ✔️ Css? ✔️ Java Script? 🛠️ Forever a work in progress.
+HTML? ✔️ CSS? ✔️ Java Script? 🛠️ Forever a work in progress.
